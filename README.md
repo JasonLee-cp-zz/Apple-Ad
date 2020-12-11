@@ -1,0 +1,2 @@
+# Apple-Ad
+Gravity/Friction 
